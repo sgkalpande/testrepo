@@ -1,0 +1,29 @@
+https://github.com/akshu20791/M1C1
+akshu20791@gmail.com
+mittal.sonal04@gmail.com
+
+google drivr:
+https://accounts.google.com/signin/v2/challenge/sk/webauthn?service=wise&passive=1209600&continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1719YL6DMCA7ix6kscjB8tOXmEYpyufGJ%3Fusp%3Dsharing&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1719YL6DMCA7ix6kscjB8tOXmEYpyufGJ%3Fusp%3Dsharing&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=6&TL=AM3QAYafg9_2FUeG1p2tdwdAdm1YcFGWxlo98fukeXc3UtJuSclvK8t-dxPlxCsc
+
+
+
+https://drive.google.com/drive/folders/1719YL6DMCA7ix6kscjB8tOXmEYpyufGJ?usp=sharing
+
+linux video: https://vimeo.com/700202539
+
+sonal git link:
+https://github.com/Sonal0409/Purdue_DevOps/tree/main/GIT
+https://github.com/Sonal0409/Purdue_DevOps
+
+Linux sonal
+https://github.com/Sonal0409/DevOps_ClassNotes/blob/master/LinuxFundamentals/LinuxCommands
+
+jenkins:
+
+https://github.com/bhasker-manikyala/game-of-life
+
+blogs
+https://www.edureka.co/blog/what-is-jenkins/
+
+Interview questions:
+https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/
